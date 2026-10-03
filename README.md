@@ -1,10 +1,5 @@
-<!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gabriel%20Madureira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20IA%20%26%20Automa%C3%A7%C3%B5es&descAlignY=58&descSize=18" alt="Banner" />
-
-  <a href="https://github.com/GbielDEV">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+TypeScript+%7C+Python+%7C+Ruby;Programa%C3%A7%C3%A3o+com+IA+e+Engenharia+de+Prompt;Automa%C3%A7%C3%B5es+com+n8n" alt="Typing SVG" />
-  </a>
+  <img src="./banner.svg" alt="Gabriel Madureira - Desenvolvedor Full Stack" width="100%" />
 </div>
 
 <br/>
@@ -12,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gbieldev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/g.madureiras/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GbielDEV&label=Visitas&color=2c5364&style=for-the-badge" alt="Visitas" />
+  <a href="https://github.com/GbielDEV?tab=followers"><img src="https://img.shields.io/github/followers/GbielDEV?label=Seguidores&style=for-the-badge&logo=github&color=2c5364" alt="Seguidores" /></a>
 </p>
 
 ---
@@ -67,16 +62,11 @@ Sou desenvolvedor apaixonado por transformar ideias em software de verdade. Tenh
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Objetivos
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GbielDEV&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbielDEV&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&custom_title=Linguagens" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GbielDEV&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</p>
+- Evoluir como desenvolvedor full stack, escrevendo código limpo e bem estruturado
+- Aprofundar o uso de IA e automação no desenvolvimento de software
+- Construir projetos que resolvam problemas reais
 
 ---
 
@@ -90,4 +80,4 @@ Aberto a conversas, colaborações e oportunidades na área de desenvolvimento.
   <a href="https://github.com/GbielDEV">GitHub</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
+<p align="center"><sub>Feito com 💙 por Gabriel Madureira</sub></p>
