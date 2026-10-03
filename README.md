@@ -80,4 +80,4 @@ Aberto a conversas, colaborações e oportunidades na área de desenvolvimento.
   <a href="https://github.com/GbielDEV">GitHub</a>
 </p>
 
-<p align="center"><sub>Feito com 💙 por Gabriel Madureira</sub></p>
+
